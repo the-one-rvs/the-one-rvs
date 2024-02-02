@@ -28,7 +28,7 @@
 ## 🛠️ My Skills
 
 <p align="center">
-    <img alt="Vaibhav Sarswat's Github Stats" src="https://skillicons.dev/icons?i=cplusplus,docker,kubernetes,python,golang,linux,jenkins,flask,git,ansible,terraform,opencv" height="180px"/> 
+    <img alt="Vaibhav Sarswat's Github Stats" src="https://skillicons.dev/icons?i=cplusplus,docker,kubernetes,python,golang,linux,jenkins,flask,git,ansible,terraform,opencv,flask" height="180px"/> 
 
 ---
 
