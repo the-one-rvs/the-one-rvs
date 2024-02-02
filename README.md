@@ -4,7 +4,7 @@
 </p>
 <br>
 
-## <picture><img src="https://github.com/Agrawal-Ayush-009/Agrawal-Ayush-009/blob/main/assests/about_me.gif?raw=true" width=50px></picture> About me
+## <picture><img src="https://github.com/the-one-rvs/the-one-rvs/blob/main/assests/about_me.gif?raw=true" width=50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/Agrawal-Ayush-009/Agrawal-Ayush-009/blob/main/assests/Right_Side.gif?raw=true" width=250px></picture>
 
@@ -17,7 +17,7 @@
 
 ---
 
-## <picture> <img src="https://github.com/Agrawal-Ayush-009/Agrawal-Ayush-009/blob/main/assests/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/the-one-rvs/the-one-rvs/blob/main/assests/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
     <a href="mailto:vaibhavsarswat142005@gmail.com"><img height=30px; img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" target="_blank" alt="Gmail"/></a>
     <a href="https://www.linkedin.com/in/the-one-rvs/"><img height=30px; src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"/></a>
@@ -32,7 +32,7 @@
 
 ---
 
-## <picture> <img src="https://github.com/Agrawal-Ayush-009/Agrawal-Ayush-009/blob/main/assests/Statistics.gif?raw=true" width=50px>  </picture> Github Stats
+## <picture> <img src="https://github.com/the-one-rvs/the-one-rvs/blob/main/assests/Statistics.gif?raw=true" width=50px>  </picture> Github Stats
 
 <p align="center">
     <img alt="Vaibhav Sarswat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=the-one-rvs&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
