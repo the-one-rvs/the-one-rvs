@@ -48,3 +48,6 @@
 <p align="center">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=the_one_rvs" alt="Vaibhav Sarswat" height="230px"/>
 </p>
+<p align="center">
+    <img src="https://codechef-readme-stats.vercel.app/api/card?username=the_one_rvs" alt="Vaibhav Sarswat" height="230px"/>
+</p>
