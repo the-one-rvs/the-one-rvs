@@ -11,7 +11,7 @@
 <br><br>
 - 🏫: I am a `CSE with specialization in AI&ML Student`.
 - 👨‍💻: I see `Problems` to solve at any cost.
-- 👨‍🎓: I’m diving into the world of `DevOps and AIML`.
+- 👨‍🎓: I’m diving into the world of `Competitive Programming`.
 - 📱: I'm developing skills in the field of `DevOps and AI`.
 <br>
 
