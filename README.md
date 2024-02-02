@@ -1,26 +1,38 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Sarswat</h1>
-<h3 align="center">I'm a Programming, Devops,AI&ML enthusiast</h3>
+# Hello, World! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-one-rvs&label=Profile%20views&color=0e75b6&style=flat" alt="the-one-rvs" /> </p>
+I'm Vaibhav Sarswat, a passionate programmer, DevOps, and AIML enthusiast! 😄
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-one-rvs" alt="the-one-rvs" /></a> </p>
+![Coding Animation](https://your-animation-url-here) <!-- Replace with your animated gif URL -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/the-one-rvs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/the-one-rvs/" height="30" width="40" /></a>
-<a href="https://instagram.com/_the_one_rvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_the_one_rvs" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/the_one_rvs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="the_one_rvs" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/the_one_rvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="the_one_rvs" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/the_one_rvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="the_one_rvs" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vaibhavsarswat11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vaibhavsarswat11" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vaibhavsarsau2o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaibhavsarsau2o" height="30" width="40" /></a>
-</p>
+## About Me
+- 🚀 I'm a software engineer with expertise in C++, Python, and Go lang.
+- 🐳 Docker and Kubernetes enthusiast.
+- 💻 DevOps practitioner experienced with Jenkins, Linux, and Git.
+- 🌐 Flask web development.
+- 🌟 Check out my [CodeChef](https://www.codechef.com/users/the_one_rvs) profile with a rating of X.
+- 🚀 Explore my [Codeforces](https://codeforces.com/profile/the_one_rvs) profile with a rating of Y.
+- 👨‍💻 Solve problems on [LeetCode](https://leetcode.com/the_one_rvs/) to stay sharp.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Technologies & Tools
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+- ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+- ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-one-rvs&show_icons=true&locale=en&layout=compact" alt="the-one-rvs" /></p>
+## GitHub Profile Stats
+[![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-one-rvs&show_icons=true&theme=dark)](https://github.com/the-one-rvs)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-one-rvs&show_icons=true&locale=en" alt="the-one-rvs" /></p>
+## Popular Projects
+- [![Project 1](https://img.shields.io/badge/-Project%201-9B59B6?style=for-the-badge)](https://github.com/the-one-rvs/project1)
+- [![Project 2](https://img.shields.io/badge/-Project%202-3498DB?style=for-the-badge)](https://github.com/the-one-rvs/project2)
+- [![Project 3](https://img.shields.io/badge/-Project%203-2ECC71?style=for-the-badge)](https://github.com/the-one-rvs/project3)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-one-rvs&" alt="the-one-rvs" /></p>
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/the-one-rvs/)
+
+Feel free to explore my repositories and connect with me. Happy coding! 🚀
