@@ -4,6 +4,11 @@
 </p>
 <br>
 
+- Visitor Count
+![image](https://user-images.githubusercontent.com/70807684/126077765-4f1f96ab-c054-4412-9f3a-1c977129a312.png)
+
+<br>
+
 ## <picture><img src="https://github.com/the-one-rvs/the-one-rvs/blob/main/assests/about_me.gif?raw=true" width=50px></picture> About me
 
 <picture> <img align="right" src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg?raw=true" width=250px></picture>
