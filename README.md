@@ -6,7 +6,7 @@
 
 ## <picture><img src="https://github.com/the-one-rvs/the-one-rvs/blob/main/assests/about_me.gif?raw=true" width=50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/Agrawal-Ayush-009/Agrawal-Ayush-009/blob/main/assests/Right_Side.gif?raw=true" width=250px></picture>
+<picture> <img align="right" src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg?raw=true" width=250px></picture>
 
 <br><br>
 - 🏫: I am a `CSE with specialization in AI&ML Student`.
