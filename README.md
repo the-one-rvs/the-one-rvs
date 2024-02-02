@@ -11,7 +11,7 @@
 <br><br>
 - 🏫: I am a `CSE with specialization in AI&ML Student`.
 - 👨‍💻: I see `Problems` to solve at any cost.
-- 👨‍🎓: I’m currently learning `Machine Learning` and diving into the world of `DevOps`.
+- 👨‍🎓: I’m diving into the world of `DevOps and AIML`.
 - 📱: I'm developing skills in the field of `DevOps and AI`.
 <br>
 
@@ -19,9 +19,8 @@
 
 ## <picture> <img src="https://github.com/Agrawal-Ayush-009/Agrawal-Ayush-009/blob/main/assests/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-    <a href="mailto:your-email@example.com"><img height=30px; img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" target="_blank" alt="Gmail"/></a>
+    <a href="mailto:vaibhavsarswat142005@gmail.com"><img height=30px; img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" target="_blank" alt="Gmail"/></a>
     <a href="https://www.linkedin.com/in/the-one-rvs/"><img height=30px; src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"/></a>
-    <a href="https://twitter.com/your-twitter-handle"><img height=30px; src="https://img.shields.io/badge/Twitter-%230A66C0.svg?style=plastic&logo=x&logoColor=white" target="_blank" alt="Twitter"/></a>
 </p>
 
 ---
@@ -29,7 +28,7 @@
 ## 🛠️ My Skills
 
 <p align="center">
-    <img alt="Vaibhav Sarswat's Github Stats" src="https://skillicons.dev/icons?i=cplusplus,docker,kubernetes,python,golang,linux,jenkins,flask,git" height="180px"/> 
+    <img alt="Vaibhav Sarswat's Github Stats" src="https://skillicons.dev/icons?i=cplusplus,docker,kubernetes,python,golang,linux,jenkins,flask,git,ansible,terraform,opencv" height="180px"/> 
 
 ---
 
