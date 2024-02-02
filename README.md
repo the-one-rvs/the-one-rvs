@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vaibhav Sarswat<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Programmer%3BDevOps+Enthusiast%3BAIML+Enthusiast">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Competitive+Programmer%3BDevOps+Enthusiast%3BAIML+Enthusiast">
 </p>
 <br>
 
@@ -9,10 +9,10 @@
 <picture> <img align="right" src="https://github.com/Agrawal-Ayush-009/Agrawal-Ayush-009/blob/main/assests/Right_Side.gif?raw=true" width=250px></picture>
 
 <br><br>
-- 🏫: I am a `Computer Science and Engineering Student`.
-- 👨‍💻: I see `Problems` as an opportunity.
+- 🏫: I am a `CSE with specialization in AI&ML Student`.
+- 👨‍💻: I see `Problems` to solve at any cost.
 - 👨‍🎓: I’m currently learning `Machine Learning` and diving into the world of `DevOps`.
-- 📱: I'm developing skills in the field of `C++, Docker, Kubernetes, Python, Go lang, Linux, Jenkins, Flask, and Git`.
+- 📱: I'm developing skills in the field of `DevOps and AI`.
 <br>
 
 ---
@@ -47,7 +47,4 @@
 <br/>
 <p align="center">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=the_one_rvs" alt="Vaibhav Sarswat" height="230px"/>
-</p>
-<p align="center">
-    <img src="https://codechef-readme-stats.vercel.app/api/card?username=the_one_rvs" alt="Vaibhav Sarswat" height="230px"/>
 </p>
