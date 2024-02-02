@@ -5,7 +5,7 @@
 <br>
 
 - Visitor Count
-<img src="https://profile-counter.glitch.me/AvidCoder101/count.svg">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-one-rvs&label=Profile%20views&color=0e75b6&style=flat" alt="the-one-rvs" /> </p>
 <br>
 
 ## <picture><img src="https://github.com/the-one-rvs/the-one-rvs/blob/main/assests/about_me.gif?raw=true" width=50px></picture> About me
