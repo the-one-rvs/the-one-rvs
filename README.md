@@ -51,3 +51,7 @@
 <p align="center">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=the_one_rvs" alt="Vaibhav Sarswat" height="230px"/>
 </p>
+<br/>
+<p align="center">
+    <img src="https://leetcode-readme-stats.vercel.app/api/card?username=the_one_rvs" alt="Vaibhav Sarswat" height="230px"/>
+</p>
