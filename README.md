@@ -41,6 +41,7 @@
 <p align="center">
     <img alt="Vaibhav Sarswat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=the-one-rvs&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-one-rvs&theme=dark" alt="Vaibhav Sarswat" /></p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-one-rvs&layout=compact&show_icons=true&locale=en&theme=dark" alt="Vaibhav Sarswat" height="230px"/>
 <div align="center">
