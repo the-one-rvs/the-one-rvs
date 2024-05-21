@@ -44,9 +44,6 @@
 <div>
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-one-rvs&theme=dark" alt="Vaibhav Sarswat" /></p>
 </div>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-one-rvs&layout=compact&show_icons=true&locale=en&theme=dark" alt="Vaibhav Sarswat" height="230px"/>
-<div align="center">
 
 </div>
 </p>
